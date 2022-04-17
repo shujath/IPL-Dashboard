@@ -1,7 +1,0 @@
-com\shujaths\ipldashboard\IplDashboardApplication.class
-com\shujaths\ipldashboard\data\JobCompletionNotificationListener.class
-com\shujaths\ipldashboard\data\BatchConfig$1.class
-com\shujaths\ipldashboard\model\Match.class
-com\shujaths\ipldashboard\data\BatchConfig.class
-com\shujaths\ipldashboard\data\MatchInput.class
-com\shujaths\ipldashboard\data\MatchDataProcessor.class
